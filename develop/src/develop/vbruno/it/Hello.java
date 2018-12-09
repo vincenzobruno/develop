@@ -1,4 +1,4 @@
-package develop;
+package develop.vbruno.it;
 
 public class Hello {
 
